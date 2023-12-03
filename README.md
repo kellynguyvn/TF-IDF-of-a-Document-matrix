@@ -15,3 +15,6 @@ tf_matrix = [
 
 ## Document Matrix Results
 (0.17868817697641853, 0.5043993233050684, 0.7500041568025464)
+
+## References
+[CMPE256_LargeScaleAnalytics_Session_InformationRetrieval_20231101.pdf](https://sjsu.instructure.com/courses/1576186/files/folder/Session10?preview=75128560)
